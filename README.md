@@ -14,9 +14,7 @@ This repository contains the implementation of an online dictionary learning sol
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
 - [References](#references)
-- [License](#license)
 
 ## Introduction
 
